@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SpendApp</string>
+    <string name="tag">Tag</string>
+    <string name="title">Title</string>
+    <string name="amount">Amount</string>
+    <string name="type">Type</string>
+    <string name="note">Note</string>
+    <string name="save">Save</string>
+    <string name="date">Date</string>
+    <string name="action_add">action_add</string>
+    <string name="mode_type">Mode Type</string>
+    <string name="welcome">Welcome, %s </string>
+    <string name="we_build_this_together">We build this together</string>
+    <string name="username">Username</string>
+    <string name="save_username">Save username</string>
+
+    <string-array name="type">
+        <item>Income</item>
+        <item>Expense</item>
+    </string-array>
+</resources>
